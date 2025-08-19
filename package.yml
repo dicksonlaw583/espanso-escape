@@ -2,7 +2,7 @@ global_vars:
   - name: escape_python
     type: echo
     params:
-      echo: "python3" # Replace this with the path to your Python instance if automatic detection is failing
+      echo: "python" # Replace this with the path to your Python instance if automatic detection is failing
 
 matches:
   - triggers: [">>json", ">>\\"]
