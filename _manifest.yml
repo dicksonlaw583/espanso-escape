@@ -1,0 +1,5 @@
+author: Dickson Law
+description: Common character escapes (backslashing, JSON, XML, URL-encoding, regex)
+title: Escape Text
+version: 1.0.0
+tags: ["json", "xml", "backslash", "url encoding", "x-www-form-urlencoded", "escape"]
