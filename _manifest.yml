@@ -3,5 +3,5 @@ description: Common character escapes (backslashing, JSON, XML, URL-encoding, re
 title: Escape Text
 name: escape
 homepage: https://github.com/dicksonlaw583/espanso-escape
-version: 1.0.1
+version: 1.0.2
 tags: ["json", "xml", "backslash", "url encoding", "x-www-form-urlencoded", "escape"]
